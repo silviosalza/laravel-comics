@@ -3,7 +3,7 @@
 @section('content')
 <div class="comic-container py-4">
     <div class="container">
-        <div class="row row-cols-4 g-3">
+        <div class="row row-cols-6 g-3">
             @foreach ($comics as $single_comic)
                 <div class="col">
                     <div class="card">

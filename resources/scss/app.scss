@@ -1,1 +1,9 @@
+@use './partials/comic-card' as *;
 @import '~bootstrap/scss/bootstrap';
+
+
+.comic-container {
+    background-color: rgb(58, 58, 58);
+}
+
+
